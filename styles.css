@@ -1,3 +1,17 @@
 body {
   background-color: pink;
 }
+
+div {
+  background-color: white;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+section {
+  background-color: grey;
+  border: 2px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
